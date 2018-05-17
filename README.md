@@ -1,9 +1,9 @@
 # FBcmd4j
-Instalacion No requiere instalacion, se pueden utilizar en cualquier maquina que tenga instalado Java
+Instalacion: Para el uso personal se esta utilizando Java en su version actual, Eclipse como IDE y Github en su version de escritorio. Todo el codigo aqui mostrado No requiere instalacion como tal, se pueden utilizar en cualquier maquina que tenga instalado Java con ayuda de algun IDE para editar.
 
-Uso Se puede utilizar cualquier IDE para editar y correr los archivos java
+Uso: El programa se utiliza para simular entornos de maquinas virtualez como son sus interfaces, si estan encendidas o apagadas, numero de serie, MAC addres, IP's, etc. Se puede utilizar cualquier IDE para editar y correr los archivos java.
 
-Creditos Todos los creditos a Jose Manuel por ser creador de los programas base
+Creditos: Todos los creditos a Jose Manuel por ser creador de los programas base, por mi parte (fsvault) me encargo de completar el resto de codigo faltante para que el programa realice correctamente su funcion.
 
 Licencia MIT License
 
